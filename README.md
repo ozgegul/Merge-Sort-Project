@@ -20,5 +20,6 @@ Patika.dev - Data Structures and Algorithms - Merge-Sort-Project
 ***
 
 2. Big-O Notation:
+
    O(nlogn) -> O(6log6)
    
